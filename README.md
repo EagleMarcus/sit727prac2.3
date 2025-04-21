@@ -1,2 +1,2 @@
-# sit727prac2.3
-Deploying Own Application with Ubuntu and Kubernetes
+📚 Library Membership App
+A Django-based web application for managing library membership registrations. This app features a professional Bootstrap-styled frontend, MVC architecture, and is setup for containerised deployment with Docker and Kubernetes.
