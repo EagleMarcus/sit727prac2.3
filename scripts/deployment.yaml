@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: library-app
-          image: docker.io/dockerhubuser11/library-app:latest
+          image: localhost:5000/library-app:latest
           ports:
             - containerPort: 8001
